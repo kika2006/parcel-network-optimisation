@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.env
+.DS_Store
+.claude/
+# course data is not redistributed
+data/*
+!data/README.md
+output/
+*.csv
+*.pdf

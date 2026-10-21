@@ -1,0 +1,9 @@
+pandas
+numpy
+scipy
+pulp
+statsmodels
+openpyxl
+folium
+pyproj
+matplotlib

@@ -1,6 +1,6 @@
 # Optimising a Parcel Network's Last Mile in Maastricht
 
-**Author:** Francisca (Kika) Freixo  
+**Author:** Francisca Freixo  
 
 A location-optimisation model that decides which parcel **service points (SPs)** to keep, move or close, and where to add **automated parcel lockers (APLs)**, to minimise total network cost while keeping pickup convenient.
 
